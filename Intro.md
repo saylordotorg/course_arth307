@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH307 - Arts of Latin America"
+course: ARTH307
+course_fulltitle: "Arts of Latin America"
+course_description: "A chronological and thematic survey of the major themes and developments in the history of Latin American art, covering the pre-Columbian period, European Conquest, and modern and contemporary art across the Americas."
+---
 Course Syllabus for "ARTH307: Arts of Latin America"
 ----------------------------------------------------
 

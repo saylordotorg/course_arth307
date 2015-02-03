@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH307 - Arts of Latin America"
+course: ARTH307
+course_fulltitle: "Arts of Latin America"
+course_description: "A chronological and thematic survey of the major themes and developments in the history of Latin American art, covering the pre-Columbian period, European Conquest, and modern and contemporary art across the Americas."
+---
 **Unit 1: The Ancient Americas** <span id="1"></span> 
 *A survey of the major arts and architecture of the pre-Columbian world,
 this unit introduces Mesoamerican and Andean cultures from the earliest
