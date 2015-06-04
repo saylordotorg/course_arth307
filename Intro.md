@@ -100,3 +100,8 @@ completion, and you will have an opportunity to retake the exam if
 needed.  
     
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth307/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth307/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth307/Unit03/)
