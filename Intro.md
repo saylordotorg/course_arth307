@@ -113,4 +113,3 @@ needed.
 - [Unit 1](https://legacy.saylor.org/arth307/Unit01/)
 - [Unit 2](https://legacy.saylor.org/arth307/Unit02/)
 - [Unit 3](https://legacy.saylor.org/arth307/Unit03/)
-- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH307/ARTH307-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH307/ARTH307-FinalExam-Answers.html)
